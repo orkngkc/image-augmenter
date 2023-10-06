@@ -5,7 +5,7 @@ import os
 
 
 # Specify the input directory containing images
-input_path = "./cropppeedd/train/images/normal"
+input_path = "./{your_directory_path}"
 output_path = "./output_directory"  # Specify the output directory for augmented images
 
 # Create the output directory if it doesn't exist
